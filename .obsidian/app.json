@@ -1,0 +1,23 @@
+{
+  "obsidianCss": true,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Заметки",
+  "attachmentFolderPath": "Файлы",
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "TSlab"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
