@@ -12,7 +12,8 @@
   "spellcheck": true,
   "promptDelete": false,
   "spellcheckDictionary": [
-    "TSlab"
+    "TSlab",
+    "ArtificalIntelegence"
   ],
   "pdfExportSettings": {
     "pageSize": "Letter",
