@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Заметки/Анализ.md",
-            "mode": "source"
+            "file": "Заметки/Русский язык. Тексты для сочинения.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Анализ.md",
+                "file": "Заметки/Русский язык. Тексты для сочинения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Анализ.md"
+                "file": "Заметки/Русский язык. Тексты для сочинения.md"
               }
             }
           }
@@ -118,8 +118,8 @@
   },
   "active": "64085f16fdc4a76e",
   "lastOpenFiles": [
-    "Заметки/Анализ.md",
     "Заметки/Русский язык. Тексты для сочинения.md",
+    "Заметки/Анализ.md",
     "Заметки/Сон 08.05.21.md",
     "zzzzzzz/Мой ZettelKasten.md",
     "Заметки/Сон 07.05.21.md",
