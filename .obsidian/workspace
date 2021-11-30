@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Заметки/Русский язык. Тексты для сочинения.md",
-            "mode": "preview"
+            "file": "Заметки/Анализ.md",
+            "mode": "source"
           }
         }
       }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209,
-    "collapsed": true
+    "width": 209
   },
   "right": {
     "id": "5e07c796c3d6f24c",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Русский язык. Тексты для сочинения.md",
+                "file": "Заметки/Анализ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Русский язык. Тексты для сочинения.md"
+                "file": "Заметки/Анализ.md"
               }
             }
           }
@@ -119,8 +118,8 @@
   },
   "active": "64085f16fdc4a76e",
   "lastOpenFiles": [
-    "Заметки/Русский язык. Тексты для сочинения.md",
     "Заметки/Анализ.md",
+    "Заметки/Русский язык. Тексты для сочинения.md",
     "Заметки/Сон 08.05.21.md",
     "zzzzzzz/Мой ZettelKasten.md",
     "Заметки/Сон 07.05.21.md",
