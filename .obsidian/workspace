@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Заметки/Кошельки.md",
+            "file": "Заметки/А.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Кошельки.md",
+                "file": "Заметки/А.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Кошельки.md"
+                "file": "Заметки/А.md"
               }
             }
           }
@@ -118,8 +118,8 @@
   },
   "active": "ecf719ee80f46c36",
   "lastOpenFiles": [
-    "Заметки/Кошельки.md",
     "Заметки/А.md",
+    "Заметки/Кошельки.md",
     "Заметки/Десятидневный мыслительный тренинг.md",
     "Заметки/Вопросы для решения проблем.md",
     "Заметки/Методика НАО.md",
