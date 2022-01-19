@@ -3,7 +3,7 @@
   "strictLineBreaks": true,
   "foldHeading": true,
   "foldIndent": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Заметки",
@@ -22,5 +22,9 @@
     "downscalePercent": 100
   },
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "ru",
+    "en-US"
+  ]
 }
