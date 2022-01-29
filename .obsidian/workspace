@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Заметки/Русский язык. Задания.md",
+            "file": "Заметки/Ruby Exchange.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Русский язык. Задания.md",
+                "file": "Заметки/Ruby Exchange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Русский язык. Задания.md"
+                "file": "Заметки/Ruby Exchange.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "aa3c00ae468c5e5e",
   "lastOpenFiles": [
+    "Заметки/Ruby Exchange.md",
     "Заметки/Русский язык. Задания.md",
     "Заметки/Русский язык. Художественные средства выразительности и их типы.md",
     "Заметки/Эпитет.md",
@@ -126,7 +127,6 @@
     "Заметки/Цитирование.md",
     "Заметки/Оксюморон.md",
     "Заметки/Эпифора.md",
-    "Заметки/Антитеза.md",
-    "Заметки/Звукопись.md"
+    "Заметки/Антитеза.md"
   ]
 }
