@@ -4,14 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "e698d0fe046e6038",
+        "id": "a56e2ca072bb37a2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "localgraph",
           "state": {
-            "file": "Заметки/Заметка.md",
-            "mode": "source",
-            "source": false
+            "file": "Заметки/Стратегия трейдинга.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 5,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": false,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": false,
+              "centerStrength": 0.0375735294117647,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.6283892772163667,
+              "close": true
+            }
           }
         }
       }
@@ -57,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Заметка.md",
+                "file": "Заметки/Стратегия трейдинга.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Заметка.md"
+                "file": "Заметки/Стратегия трейдинга.md"
               }
             }
           }
@@ -117,17 +139,17 @@
     "width": 145,
     "collapsed": true
   },
-  "active": "e698d0fe046e6038",
+  "active": "a56e2ca072bb37a2",
   "lastOpenFiles": [
-    "Заметки/Заметка.md",
-    "Заметки/А.md",
-    "Заметки/Русский язык. Задания.md",
-    "Заметки/Русский язык. Безударные гласные в корнях слов.md",
-    "Заметки/Без названия.md",
-    "Заметки/Кошельки.md",
-    "Заметки/Профильная математика. Степени.md",
-    "Заметки/Профильная математика. Задания.md",
-    "Заметки/Русский язык. Художественные средства выразительности и их типы.md",
-    "Заметки/Русский язык. Пунктуация.md"
+    "Заметки/Стратегия трейдинга.md",
+    "Заметки/Режим гения.md",
+    "Заметки/Десятидневный мыслительный тренинг.md",
+    "Заметки/Эйдетическая память.md",
+    "Заметки/Великие умы обсуждают идеи. Средние умы обсуждают события. Мелкие умы обсуждают людей..md",
+    "Zeros/00 Trading.md",
+    "Заметки/Вечерняя звезда.md",
+    "Zeros/00 Осциляторы.md",
+    "Заметки/Стохастический осцилятор.md",
+    "Заметки/Заметка.md"
   ]
 }
