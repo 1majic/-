@@ -4,37 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a56e2ca072bb37a2",
+        "id": "0b2995a7518dde21",
         "type": "leaf",
         "state": {
-          "type": "localgraph",
+          "type": "markdown",
           "state": {
-            "file": "Заметки/Стратегия трейдинга.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 5,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": false,
-              "colorGroups": [],
-              "collapse-display": false,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": false,
-              "centerStrength": 0.0375735294117647,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.6283892772163667,
-              "close": true
-            }
+            "file": "Заметки/А.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -84,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 209,
+    "collapsed": true
   },
   "right": {
     "id": "5e07c796c3d6f24c",
@@ -100,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Стратегия трейдинга.md",
+                "file": "Заметки/А.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Стратегия трейдинга.md"
+                "file": "Заметки/А.md"
               }
             }
           }
@@ -139,8 +117,9 @@
     "width": 145,
     "collapsed": true
   },
-  "active": "a56e2ca072bb37a2",
+  "active": "0b2995a7518dde21",
   "lastOpenFiles": [
+    "Заметки/А.md",
     "Заметки/Стратегия трейдинга.md",
     "Заметки/Режим гения.md",
     "Заметки/Десятидневный мыслительный тренинг.md",
@@ -149,7 +128,6 @@
     "Zeros/00 Trading.md",
     "Заметки/Вечерняя звезда.md",
     "Zeros/00 Осциляторы.md",
-    "Заметки/Стохастический осцилятор.md",
-    "Заметки/Заметка.md"
+    "Заметки/Стохастический осцилятор.md"
   ]
 }
