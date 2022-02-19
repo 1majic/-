@@ -26,41 +26,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "ee6e737b786f416b",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Заметки/Разбуди в себе исполина - Энтони Роббинс.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": false,
-              "colorGroups": [],
-              "collapse-display": false,
-              "showArrow": false,
-              "textFadeMultiplier": -3,
-              "nodeSizeMultiplier": 0.716823529411765,
-              "lineSizeMultiplier": 1.06270588235294,
-              "collapse-forces": false,
-              "centerStrength": 0,
-              "repelStrength": 20,
-              "linkStrength": 0.770588235294118,
-              "linkDistance": 250,
-              "scale": 0.2445918375534992,
-              "close": true
-            }
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -126,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Разбуди в себе исполина - Энтони Роббинс.md",
+                "file": "Заметки/Утренние и вечерние вопросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки/Разбуди в себе исполина - Энтони Роббинс.md"
+                "file": "Заметки/Утренние и вечерние вопросы.md"
               }
             }
           }
@@ -166,15 +131,15 @@
     "width": 145,
     "collapsed": true
   },
-  "active": "ead354d2d55c1dcf",
+  "active": "9184c5bc149e4eb4",
   "lastOpenFiles": [
+    "Заметки/Утренние и вечерние вопросы.md",
     "Заметки/Разбуди в себе исполина - Энтони Роббинс.md",
     "Заметки/Богатство - это результат человеческой способности мыслить.md",
     "Заметки/00 Айн Рэнд.md",
     "Заметки/В наполненном сердце найдется место еще многому; в пустом сердце много места лишь для пустоты.md",
     "Заметки/00 Антонио Порше.md",
     "Заметки/Способность переделать себя.md",
-    "Заметки/Утренние и вечерние вопросы.md",
     "Заметки/Изменение подтверждений.md",
     "Заметки/Нельзя достичь ничего выдающегося без выдающихся людей, а люди только тогда бывают выдающимися, когда принимают решение стать таковыми.md",
     "Заметки/00 Шарль де Голль.md"
